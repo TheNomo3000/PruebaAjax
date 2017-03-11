@@ -1,0 +1,10 @@
+{
+	"libros":[
+	{"Autor":"Juan Rulfo","Titulo":"Pedro Páramo"},
+	{"Autor":"Juan Rulfo","Titulo":"El Llano en Llamas"},
+	{"Autor":"Pablo Neruda","Titulo":"Veinte poemas de amor y una canción desesperada"},
+	{"Autor":"Miguel de Cervantes Saavedra","Titulo":"Don Quijote de la Mancha"},
+	{"Autor":"Jorge Luis Borges","Titulo":"Ficciones"}
+	]
+}
+
